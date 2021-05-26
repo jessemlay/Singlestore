@@ -5,14 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="DBInit\init.sql" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="DBInit\init.sql" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.0" />
   </ItemGroup>
 
