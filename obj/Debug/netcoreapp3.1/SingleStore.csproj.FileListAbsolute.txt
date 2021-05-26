@@ -28,3 +28,4 @@ C:\Users\Jesse\source\repos\SingleStore\SingleStore\bin\Debug\netcoreapp3.1\Micr
 C:\Users\Jesse\source\repos\SingleStore\SingleStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\Jesse\source\repos\SingleStore\SingleStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Jesse\source\repos\SingleStore\SingleStore\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Jesse\source\repos\SingleStore\SingleStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
